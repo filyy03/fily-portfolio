@@ -23,7 +23,7 @@ if (!$prenom || !$nom || !$email || !$message) {
     exit;
 }
 
-$to = "tfily954@icloud.com";
+$to = "fily.toure05@gmail.com";
 $subject = "Message depuis le portfolio";
 
 $body = "Nouveau message :\n\n"
